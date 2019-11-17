@@ -1,0 +1,12 @@
+name: psi4-1p1
+
+channels:
+  - psi4
+
+dependencies:
+  - matplotlib
+  - pandas
+  - scipy
+  - psi4
+  - psi4-rt
+  - python=3.6
