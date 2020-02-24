@@ -5,7 +5,6 @@ channels:
 
 dependencies:
   - matplotlib
-  - pandas
   - scipy
   - psi4
   - psi4-rt
