@@ -1,11 +1,10 @@
-name: psi4-1p1
-
+name: p4env37
 channels:
-  - psi4
-
+  - psi4/label/dev
+  - defaults
 dependencies:
-  - matplotlib
-  - scipy
+  - python=3.7
   - psi4
-  - psi4-rt
-  - python=3.6
+  - dftd3
+  - matplotlib
+  - numpy
