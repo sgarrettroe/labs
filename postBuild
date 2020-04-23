@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git clone https://github.com/billy-doyle/moly.git
+cd moly
+pip install .
