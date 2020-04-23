@@ -2,6 +2,8 @@
 
 set -e
 
+invoke build --env-name=root --no-kernel
+
 git clone https://github.com/billy-doyle/moly.git
 cd moly
 pip install .
