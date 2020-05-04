@@ -1,5 +1,5 @@
 set -e
 
-git clone https://github.com/billy-doyle/moly.git
+git clone https://github.com/VHchavez/moly.git
 cd moly
 pip install .
